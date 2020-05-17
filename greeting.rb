@@ -7,4 +7,3 @@ greeting
 greeting
 greeting
 greeting
-say_greeting
